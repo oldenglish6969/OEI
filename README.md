@@ -1,4 +1,4 @@
-# pyalgotrading
+# OEI
 Official Python Package for Algorithmic Trading APIs powered by AlgoBulls!
 
 ### Features
